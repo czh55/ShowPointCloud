@@ -1,5 +1,5 @@
-#include "MainWindow.h"
-//local_develop��֧
+﻿#include "MainWindow.h"
+//local_develop分支
 MainWindow::MainWindow(QWidget *parent)
 	: QMainWindow(parent)
 {
